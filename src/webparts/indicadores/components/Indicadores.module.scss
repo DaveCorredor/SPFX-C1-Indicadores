@@ -112,22 +112,22 @@
 }
 
 .indicador__value {
-  font-size: 5em;
+  font-size: 4em;
   font-weight: 300;
   padding: 0.3em 0;
 	transition: font-size 0.3s ease, text-shadow 0.3s ease;
 }
 
 .indicador_item1:hover .indicador__value {
-	font-size: 5.5em;
+	font-size: 4.5em;
 	text-shadow: 2px 2px 4px rgba(226, 90, 119, 1);
 }
 .indicador_item2:hover .indicador__value {
-	font-size: 5.5em;
+	font-size: 4.5em;
 	text-shadow: 2px 2px 4px rgba(226, 90, 188, 1);
 }
 .indicador_item3:hover .indicador__value {
-	font-size: 5.5em;
+	font-size: 4.5em;
 	text-shadow: 2px 2px 4px rgba(126, 90, 226, 1);
 }
 
